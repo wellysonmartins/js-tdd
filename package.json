@@ -1,0 +1,24 @@
+{
+  "name": "js-tdd",
+  "version": "1.0.0",
+  "description": "Lib do curso de Js com TDD na prática.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wellysonmartins/js-tdd.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "library"
+  ],
+  "author": "Wellyson Martins <wellysonfrontend@gmail.com> (https://github.com/wellysonmartins)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wellysonmartins/js-tdd/issues"
+  },
+  "homepage": "https://github.com/wellysonmartins/js-tdd#readme"
+}
