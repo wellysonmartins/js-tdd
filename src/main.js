@@ -7,4 +7,4 @@ function sum() {
 }
 
 
-sum();
+sum()
